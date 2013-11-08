@@ -12,7 +12,7 @@ namespace CURELab.SignLanguage.Launcher
     {
         static void Main(string[] args)
         {
-			//tommy update
+			//tommy 
             Console.WriteLine("this is a launcher without kinect");
             RecognitionController lc = new RecognitionController();
             lc.BeginTest();
